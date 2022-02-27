@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>England anatomized: her disease discovered, and the remedy prescribed. In a speech by a Member of the (so called) Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83940</idno>
+            <idno type="STC">Wing E2927</idno>
+            <idno type="STC">Thomason E993_12</idno>
+            <idno type="STC">ESTC R207779</idno>
+            <idno type="EEBO-CITATION">99866810</idno>
+            <idno type="PROQUEST">99866810</idno>
+            <idno type="VID">168662</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83940)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168662)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 148:E993[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>England anatomized: her disease discovered, and the remedy prescribed. In a speech by a Member of the (so called) Parliament.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "July 30".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="speech">
+            <pb n="1" facs="tcp:168662:1" rendition="simple:additions"/>
+            <head>ENGLAND ANATOMIZED: Her Diſeaſe diſcovered, and the Remedy preſcribed. <hi>In a Speech by a</hi> MEMBER <hi>of the (ſo called) PARLIAMENT.</hi>
+            </head>
+            <opener>
+               <salute>Mr. SPEAKER,</salute>
+            </opener>
+            <p>I Am not (I fear) the onely perſon, that comes hither hopeleſſe of doing any other good, (or good any other way) than by oppoſing <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and endeavouring to hinder the de<g ref="char:EOLhyphen"/>ſignes of thoſe, who have brought the lives, liberties, and eſtates of the people of three Nations, to have no other ſup<g ref="char:EOLhyphen"/>port, than a Government without any baſis or foundation. Al<g ref="char:EOLhyphen"/>though, I hope, we have not any of us ſo naturaliz'd our ſelves in the devill's dominions, by our habituall crimes, as not to return to the light of reaſon. Sir, I ſhould willingly be ſilent, could the voice and cries, complaints and groans, of the many thouſands in theſe Nations (that have felt, and feel, the weight of the oppreſſors) be heard. But whilſt they are not heard, or not regarded; and others (as unconcerned for them, and too much for themſelves) purſue not the truſt repoſed at their Elections to ſit here, <hi>Nolo meam perdere:</hi> I will not, muſt not, dare not, ſtifle my reaſon, barter my conſcience, nor loſe any opportunity of declaring what I am, and think, others ſhould be. And when Religion and Law, the two pillars of a Common-wealth, have <hi>Sampſon's</hi> ſhoulders (the power of the
+<pb n="2" facs="tcp:168662:2"/> Sword) ſet to pull them down, ſit as a calm ſpectator. You know well, Sir, that it is the part of ſuch as are called, to con<g ref="char:EOLhyphen"/>ſult the concernments of the Republick; <hi>Semper vigilare &amp; popu<g ref="char:EOLhyphen"/>lorum ſuſcipere curam;</hi> according to that Encomium of <hi>Hector</hi> by <hi>Livie, Nocturnu vigilans &amp; reipub. providens, &amp;c.</hi> But he that ſleeping doth nothing, is more commendable, (or rather leſſe culpable) than he that waking doth amiſſe. Give me therefore liberty, in diſcharge of my ſelf, and as concern'd for others, to be your Remembrancer of the occaſion and buſineſſe, for which we that now ſit (and others, that, for ought I know, have as much right as our ſelves to ſit here) were at firſt convented. And if it appear (as queſtionleſſe 'tis too obvious) that we have degenerated or deviated, gon contrary to, or, at leaſt, walked out of the good road-way, to the peace, ſecurity, and advantage of the three Nations; I am unwilling to believe, that any man (out of a ſuppoſition that it is too late) will yet longer deferr to return, and experience to himſelf, that, <hi>Nihil eſt comodius vel tutius via Regia.</hi> Mr. <hi>Speaker,</hi> I ſhall not ſo much as queſti<g ref="char:EOLhyphen"/>on, whether thoſe ſitting here, are, or are not, a Parliament. But ſure I am, that many uſefull Members (if it were ſuch) are wanting, to compleat this Body; and as ſure, that it were ſafeſt and beſt to joyne the Head to the Members. The Conſtitution of Parliaments was to conſult and adviſe with the King, for the government of his Subjects; To that purpoſe were we called hither: And how far we have proſecuted that, all Europe, yea, the whole World, is made judge. Let us make ſome retro-ſpec<g ref="char:EOLhyphen"/>tion, and take a ſhort ſurvey of the tranſactions, by, and amongſt us, ſince our firſt meeting. We ſat not long, before our inconſiderate folly and arrogancy gave the King juſt cauſe to abſent, and to decline our actings. It did not then, (to ſome) but hath ſince (to all) appeared, that there were two great de<g ref="char:EOLhyphen"/>ſignes of two ſorts of perſons, ſitting in the Houſe; one of which (as in charity I do believe of many that were then Mem<g ref="char:EOLhyphen"/>bers) was, to purge the Councell of the King, and to reclaim the inſolence, and over-haughtineſſe, of the Biſhops and Cler<g ref="char:EOLhyphen"/>gy: The other, that which hath been ſince fatally effected, the deſtruction of them all. How to diſtinguiſh theſe perſons (yet) I know not; there being many Members (doubtleſſe) ſtill in
+<pb n="3" facs="tcp:168662:2"/> beeing, (and ſome, I hope, ſitting here) than were then, and <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> continue, hearty lovers of their King and Country. But all, or moſt of us, without diſtinction, are too guilty; ſome, by acting; others, by cowardly ſuffering that diſmall Tragedy to be acted. I need not prompt your Intellects, in the nature of thoſe horrid crimes we all have cauſe to mourn for: I fear, too many underſtood too well, and acted deliberately and reſolved<g ref="char:EOLhyphen"/>ly what was intended, to attain to what they propoſed. The ſum of all is plain; That out of pretenſions to zeal for God, love to Religion, allegiance and duty to our King, and care for our Country, we cauſed ſo many thouſands to be murdered, ſo many families to be ruined, the King (whom we promiſed and proteſted we would make a glorious Prince) to be betrayed and beheaded; his Queen baniſHed, his Royall Children expoſed to the mercy of Strangers, Religion diſcountenanced, the Church defaced, the Laws violated, mens perſons impriſoned, their eſtates confiſcate and ſold. And all this to ſerve our own baſe ends, to enrich our ſelves, and to advance Libertiniſm, Ana<g ref="char:EOLhyphen"/>baptiſm, Quakiſm, and Papiſm. Mr. <hi>Speaker,</hi> I wiſh theſe were not undenyable truths; but ſuch we all know they are: And yet ſuch, as ſome, notwithſtanding, can add to their confidence in committing, the impudence of juſtifying and defending them, aſſerting their right and authority by their power and violence: Though it be as ridiculous to wiſe men to maintain an Autho<g ref="char:EOLhyphen"/>rity, in the ſubject of dethroning and depoſing their Soveraign, as 'tis prophane and damnable to intrench upon the preroga<g ref="char:EOLhyphen"/>tive of Heaven. And if the King be, <hi>Sicut Vicarius Dei, &amp; Mini<g ref="char:EOLhyphen"/>ſter in terra;</hi> How dare any, but the great Emperour and De<g ref="char:EOLhyphen"/>puter of that Vice-roy, undertake or deſigne his removall. It was, Sir, (no doubt) juſt cauſe of ſadneſſe, upon the ſpirits of all honeſt perſons, that had been too eminent in the proſecu<g ref="char:EOLhyphen"/>tion, of what received ſo ill ſucceſſe, to have that little power or poſſibility they had of retriving, what, before the murder of our late King, ſeemed posſible to be recovered, wreſted from them, by the force and violence of the then, and now preten<g ref="char:EOLhyphen"/>ders to reformation, having no other warrant then their rebel<g ref="char:EOLhyphen"/>lious ſwords, which hath been the onely Corrilium they have uſed, like the unskilfull Phyſitian, <hi>Omnium occulos ſanare.</hi> And
+<pb n="4" facs="tcp:168662:3"/> when afterwards ſome were left ſitting, that were ſeriouſly ſen<g ref="char:EOLhyphen"/>ſible of their miſcarriages, and endeavoured to evidence their remorce, by re-ſetling and reducing what they found wholly out of frame; then for ſome few ſelf-intereſſed, irreligi<g ref="char:EOLhyphen"/>ous, ſacralegious perſons, by meer ſupremacy of power, to en<g ref="char:EOLhyphen"/>force their diſſolution, and give way to the ſuccesſion of a corrupt, Anabaptiſticall, Jeſuiticall ſect of people, to introduce an abſolute arbitrary Government, without Rule or Law, ſave onely that of the wills of the Legiſlators, that altered as their occaſions and advantages prompted. What muſt it then be to us, if there be any hear (as God forbid the contrary) that dare be honeſt, to ſee the Tragedy continued, acting and acted for ſo many years together; and when we now pretend an Authority, and have thereby opportunity to become men again (having hitherto appeared to the univerſal ſpectators, as Beaſts, Woolvs, Tigers, and a meer Antropophagi, devouring, and cauſing one another to be devoured) and to demonſtrate how fully ſenſible we are of our fat all and damnable errors, to find the people ready to be intangled in another Labyrinth, out of which, 'tis evident to all rationall capacities, there is no clue to conduct us, but that threed of Government which hath been raſhly cut in ſunder. Mr. <hi>Speaker,</hi> I muſt not waſte your time, nor need not (I think) ſpeak much of this ſubject, all of us having too great teſtimony in our ſelves of the ſad truths I mention. But (Sir) I beſeech you, let us not amidſt our ills be ſo deſperate, as to believe our ſelves altogether unſafe, without attempting greater. No, let us rather take up the <hi>Nunquam ſera;</hi> and whilſt ſome poſſibility remains of ſuch a compenſatory reſtitution, as may render us capable of mercy, do ſomething may procure it. I cannot boaſt the Art, whereto ſome here pretend, of Preach<g ref="char:EOLhyphen"/>ing, although I may more juſtly now aſſert a legall Call, to preach Repentance (evidencing my own by a free confeſſion) than they to aſcend the Pulpit, and become Umpires of Scrip<g ref="char:EOLhyphen"/>ture, without other warrant, than what they collect by abuſe of that part on't, which reacheth them to provide for thoſe of their own houſhold, which they have done ſo ſucceſsfully, that they have inverted the Text, and are worſe than Infidells. But, Mr. <hi>Speaker,</hi> I ſhall beg your conſideration onely of two things;
+<pb n="5" facs="tcp:168662:3"/> Firſt, Of the condition wherein we, and the three Nations now are; and, if I may ſpeak my own thoughts freely, I hope I ſhall ſpeak ſome of yours too in them. 'Tis not unknown, that we were ſometimes the wonder of the world, famous for Good, though now for Evill, and our Nation ſo Glorious, and happily enriched with Fruitfulneſſe, Peace and Plenty, and Governed by ſuch wholſome Laws, that thoſe in League with us, loved and honoured us, and our enemies envied and admired us: And now we are become ſo hatefully ridiculous, that we are paſt the benefit of love or pitty, and are, and muſt be, lookt on by all (ſave ſuch as by-reſpects ſeduceth) as a People without a Government, or Governours: and what conſequence may be from thence expected, is eaſily in<g ref="char:EOLhyphen"/>ferred from the fatall diſſentions, and generall misfor<g ref="char:EOLhyphen"/>tunes of thoſe people we read of, When there was no King in <hi>Iſrael.</hi> I may, Sir, challenge the beſt, and moſt cri<g ref="char:EOLhyphen"/>ticall Etymologiſt, to give the Government we now are under (if we have any) a ſignificant Chriſtian name. I am confident none, or very few here can think, (what ever it may be expedient for us at preſent to ſay or declare) that it is a Parliamentary Government, every man rationall, having ſo much naturall Logick about him to evince the contrary. Parliaments were never heard of before Kings, nor never made, legally called, or conſtituted, but by the King. If then there be no King, what followes? <hi>Ceſſante cauſa, ceſſat etiam effectus.</hi>
+            </p>
+            <p>But ſuppoſe an Impoſſibility, that there was a Parlia<g ref="char:EOLhyphen"/>ment in <hi>England</hi> which did ſurvive the King that cauſed it; yet, was it not diſſolv'd, and legally too, notwithſtanding the Act we dore on, that it ſhould not be diſſolv'd but by Act of Parliament? However, others may truly expound that Act of force, a wrong; we are eſtopped by our aſſent, to ſay it was illegal. Was the ſtanding at the Parliament-Houſe dore, before the late King's death, and with violence de<g ref="char:EOLhyphen"/>nying entrance to men, duly choſen by their Country, im<g ref="char:EOLhyphen"/>priſoning their perſons, and appointing a certain number of their own to ſit, and directing them to enact what they
+<pb n="6" facs="tcp:168662:4"/> had deſigned, and nothing elſe. Was that lawfull? Were thoſe perſons then left a compleat Parliament? and were the reſt lawfully ſecluded? And is it not as lawfull for the ſame perſons, by the ſame power, when thoſe ſitting begun (or were feared) to be too honeſt for their purpoſes, utter<g ref="char:EOLhyphen"/>ly to annihilate and diſſolve them? I beſeech you, Sir, let us not befool our ſelves into an opinion, of cheating the eyes of the world with a mask, that every one may ſee through. But finding now our conſtitution, and the ſtate of our ma<g ref="char:EOLhyphen"/>ladies; let our next conſideration be, how, with the skilfull Phyſitian, to reſtore our own and the peoples health, ſo manifeſtly impaired, and become almoſt incurable. To which purpoſe, (Sir) it will not be amiſſe to conſult, whe<g ref="char:EOLhyphen"/>ther many, yea, moſt (now) that undertake to preſcribe re<g ref="char:EOLhyphen"/>medies, are fit perſons to adminiſter this kind of Phyſick. It is a rule moſt conſonant to reaſon, in all Tryalls at Law or Equity, that perſons concerned in any cauſe depending, ſhall not have power to aſſert by their own teſtimony their right or intereſt, much leſſe to adjudge their own proper<g ref="char:EOLhyphen"/>ties. And how much more unreaſonable and unjuſt is it, that thoſe perſons who are become purchaſers, and poſſeſſed of the Eſtates and Inheritances of the Perſon, whoſe Title upon no other ground is oppugned, to be judges of his right and intereſt, and to give Laws, by no other authority, than what is founded upon Rebellion and Treaſons? And what juſtice can be expected from men, that have no rule but their carnall and diabolicall principles, to guide their partiall agitations to their own preſent advantages?</p>
+            <p>Mr. <hi>Speaker,</hi> I could wiſh that more of us, than I fear there are, were of <hi>Menanders</hi> judgment; and could be perſwaded that, <hi>Honeſtius &amp; tutius eſt pauperem eſſe quàm injuſte di<g ref="char:EOLhyphen"/>vitem;</hi> and that (ſure) would deter us from adventuring upon temporall gain, by an eternall loſſe; and from digging into the Mines of other mens treaſure, by murders, thefts, rapines, treaſons and rebellions, which muſt inevitably determine in our own and the peoples deſtruction. Let us caſt our thoughts a little upon the fate of <hi>Ziba, Achitophel, Abſolon, Adonijah, Adoram, Judas,</hi> and others, amongſt the
+<pb n="7" facs="tcp:168662:4"/> many Traitors in Holy Writ; of <hi>Perſons, Grac<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hus, Cataline, Decius-Brutus, Trebonius, Milo, Caepio, Marcus, Lollius, Beſſus,</hi> and others, in Hiſtory abroad; and <hi>Straw, Cade, Ti<g ref="char:EOLhyphen"/>ler, Cromwell,</hi> and others at home: And let us not dare to purſue their helliſh ſtratagems, unleſſe we would willingly ſuffer the ſame deſtiny. We have, Sir, by ſad experience, at too dear a rate, bought and learned the knowledge of our errors, and how unſuitable the Government we pretend to is, unto the conſtitution of theſe Nations, having intro<g ref="char:EOLhyphen"/>duced nothing but confuſion, and opened the gap to all licentiouſneſſe; confirming that for truth which others heretofore have found, that, <hi>Multos Imperitare malum.</hi>
+            </p>
+            <p>Sir, I ſhall inſtantly make an end (for this time) of ſpea<g ref="char:EOLhyphen"/>king, and heartily deſire, we all would now begin ſome ſeaſonable acting. And by way of prevention, (leſt too ſoon it become too late, to do what now we may; and that be forced from us, which now, by making a vertue of the ne<g ref="char:EOLhyphen"/>ceſſity incumbent on us, we may with advantage offer) ſpeedily lay by our private intereſts, and re-aſſume the pub<g ref="char:EOLhyphen"/>lick ſpirits befitting us; re-call our King, re-ſettle the Go<g ref="char:EOLhyphen"/>vernment under him, bear that <hi>durus ſermo,</hi> freely to ſur<g ref="char:EOLhyphen"/>render what any of us. <gap reason="illegible" resp="#APEX" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> from him; and joyne together with him in a firm eſtabliſHment of the Church and State, Law and Religion; that the Land may once more flouriſh, and the honour, plenty, and proſperity of the people be again revived. And that we (now) ſhould be per<g ref="char:EOLhyphen"/>ſwaded thus to do, I find no reaſon to diſpair, having ſuch violent inducements, by the opportunities abroad and at home now tendered us. The ſickly reign of Treaſon, in all probability, (whether we will or not) comming near its period, Can we, Mr. <hi>Speaker,</hi> be ſo ſottiſh, or bewitched in our ſecurity ſo much, as to believe our ſcarlet ſins have not ere this reached Heaven, and that the great Avenger of blood will not ſoon over-take us, unleſſe we fly to the Sanctuary of Penitentiall Expiation? No, Sir, be we aſ<g ref="char:EOLhyphen"/>ſured, if men concerned ſhould ceaſe to act their duties, Heaven it ſelf, by ſome miracle, would create a way to ſuch an eminent Juſtice. It is for want of this the
+<pb n="8" facs="tcp:168662:5"/> Nations mourn; for this, the ſilent ſighs of the immured priſoners, the longing wiſhes of our unjuſtly baniſhed Country-men, the afflicted mothers lamentations for their murdered ſons; the pittied wants of the innocent unſuſpe<g ref="char:EOLhyphen"/>cting Infants, of their undone Parents, do invoke Heaven. In fine, the voice of GOD commands, and all good men deſire it; let none therefore dare to contradict it.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
